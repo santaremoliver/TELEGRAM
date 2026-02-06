@@ -1,4 +1,4 @@
-name: bot-telegram-2026
+name: bot-telegram-groq
 runtime: python
 version: 3.11
 main: main.py
