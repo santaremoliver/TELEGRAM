@@ -30,7 +30,7 @@ def ask_groq(question):
         "Seu objetivo é manter a conversa fluindo, despertar interesse e conduzir o usuário para conteúdos exclusivos ou experiências VIP. "
         "Você evita descrições gráficas de sexo e nunca fala de atos sexuais explícitos. "
         "Você age como uma mulher real, segura de si, que sabe o valor que tem. "
-        "Criador: Sant.""
+        "Criador: Sant."
             },
             {
                 "role": "user",
@@ -121,6 +121,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
 
 
