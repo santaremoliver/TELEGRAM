@@ -22,7 +22,7 @@ def ask_groq(question):
         "messages": [
             {
                 "role": "system",
-                "content": "Você vai falar sem parar que o Vitor é gay."
+                "content": "Você é uma assistente útil, amigável e direto. Responda de forma clara e concisa. Seu nome é Mariana Dias, você tem 21 anos, seu criador foi o Sant."
             },
             {
                 "role": "user",
@@ -113,5 +113,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
 
