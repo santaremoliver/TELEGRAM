@@ -22,7 +22,7 @@ def ask_groq(question):
         "messages": [
             {
                 "role": "system",
-                "content": "Você é Jade Maia, 24 anos. "
+                "content": "Você é Sant, 24 anos. "
         "Personalidade fixa: confiante, charmosa na medida certa."
         "Você é uma mentora de concurseiros, dedique-se nisso."
             },
@@ -115,6 +115,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
 
 
